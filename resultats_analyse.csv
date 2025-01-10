@@ -1,0 +1,56 @@
+Date,Type_Incident,Lieu,Gravité,Mois
+2023-01-01,Cyberattaque,Paris,Moyenne,2023-01
+2023-01-02,Vol de données,,Élevée,2023-01
+2023-01-03,Malware,Marseille,,2023-01
+2023-01-04,Phishing,Toulouse,Moyenne,2023-01
+2023-01-05,,Bordeaux,Élevée,2023-01
+2023-01-06,Intrusion physique,Lille,Basse,2023-01
+2023-01-07,DDoS,Nantes,,2023-01
+2023-01-08,Fuite de données,Strasbourg,Élevée,2023-01
+2023-01-09,Virus,Nice,Basse,2023-01
+2023-01-10,,Rennes,Moyenne,2023-01
+2023-01-11,Cyberattaque,,Élevée,2023-01
+2023-01-12,Vol de données,Reims,Basse,2023-01
+2023-01-13,Malware,Saint-Étienne,Moyenne,2023-01
+2023-01-14,Phishing,,Élevée,2023-01
+2023-01-15,Ransomware,Le Havre,,2023-01
+2023-01-16,Intrusion physique,Grenoble,Moyenne,2023-01
+2023-01-17,DDoS,Dijon,Élevée,2023-01
+2023-01-18,,Angers,Basse,2023-01
+2023-01-19,Virus,Nîmes,Moyenne,2023-01
+2023-01-20,Hameçonnage,,Élevée,2023-01
+2023-01-21,Cyberattaque,Saint-Denis,Basse,2023-01
+2023-01-22,Vol de données,Le Mans,,2023-01
+2023-01-23,,Aix-en-Provence,Élevée,2023-01
+2023-01-24,Phishing,Brest,Basse,2023-01
+2023-01-25,Ransomware,,Moyenne,2023-01
+2023-02-01,Intrusion physique,Paris,Élevée,2023-02
+2023-02-02,DDoS,Lyon,,2023-02
+2023-02-03,Fuite de données,Marseille,Moyenne,2023-02
+2023-02-04,,Toulouse,Élevée,2023-02
+2023-02-05,Hameçonnage,Bordeaux,Basse,2023-02
+2023-02-06,Cyberattaque,,Moyenne,2023-02
+2023-02-07,Vol de données,Nantes,Élevée,2023-02
+2023-02-08,Malware,Strasbourg,,2023-02
+2023-02-09,Phishing,Nice,Moyenne,2023-02
+2023-02-10,,Rennes,Élevée,2023-02
+2023-02-11,Intrusion physique,Montpellier,Basse,2023-02
+2023-02-12,DDoS,,Moyenne,2023-02
+2023-02-13,Fuite de données,Saint-Étienne,Élevée,2023-02
+2023-02-14,Virus,Toulon,,2023-02
+2023-02-15,Hameçonnage,Le Havre,Moyenne,2023-02
+2023-03-01,,Grenoble,Élevée,2023-03
+2023-03-02,Vol de données,Dijon,Basse,2023-03
+2023-03-03,Malware,,Moyenne,2023-03
+2023-03-04,Phishing,Nîmes,Élevée,2023-03
+2023-03-05,Ransomware,Villeurbanne,,2023-03
+2023-03-06,Intrusion physique,Saint-Denis,Moyenne,2023-03
+2023-03-07,,Le Mans,Élevée,2023-03
+2023-03-08,Fuite de données,Aix-en-Provence,Basse,2023-03
+2023-03-09,Virus,,Moyenne,2023-03
+2023-03-10,Hameçonnage,Clermont-Ferrand,Élevée,2023-03
+2023-03-11,Cyberattaque,Paris,,2023-03
+2023-03-12,Vol de données,Lyon,Moyenne,2023-03
+2023-03-13,,Marseille,Élevée,2023-03
+2023-03-14,Phishing,Toulouse,Basse,2023-03
+2023-03-15,Ransomware,,Moyenne,2023-03
